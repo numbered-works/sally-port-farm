@@ -1,121 +1,91 @@
 ---
-Title: Untitled Sci-fi Setting
+Title: Sally Port Farm
 Author: Numbered Works
-Date: November, 2021
+Date: December, 2021
 ---
 
-# Untitled Sci-fi Setting
+# SALLY PORT FARM
 
-Hit odi dollataectat quunt doluptur ad earior aut volupt iscius optae. Mus a et que quatur, vendant lam la non everchi cturios simpernat.
+A multilevel farming community built upon ancient, abandoned infrastructure.
 
 **Numbered Works, No. 2**
 **December 2021**
 
-## 1d6 LOW WAY ENCOUNTERS
-
-1. **UNDERCOWS** denti ut et fugia antio. Idus dolupta non conse reptas mi.
-2. **COLLECTORS** a et que quatur, vendant lam la non everchi cturios simpernat.
-3. **WHITE CROCODILE** veni quo officip icietum ditistiis dolum res voluptation.
-4. **HUNGRY MAN** wants to eat meat. Maybe you. Is not interested in plants or fungi.
-5. **Ximus**, optae venduci iscius. Bodi dollataectat quunt doluptur ad iscius optae.
-6. **Mus** a et que quatur, vendant lam la non everchi cturios quaeped iscitiorem.
-
-## 1d6 UPPER ENCOUNTERS
-
-1. **CAM DRONE** ut et fugia antio. Idus dolupta non conse reptas mi.
-2. **CAMELS** a et que quatur, vendant lam la non everchi cturios simpernat.
-3. **SKY FARMER** veni quo officip icietum ditistiis dolum res voluptation.
-4. **FORAGERS** odi dollataectat quunt doluptur ad earior aut volupt.
-5. **Ximus**, optae venduci iscius. Bodi dollataectat quunt doluptur ad iscius optae.
-6. **Mus** a et que quatur, vendant lam la non everchi cturios
-
-## THE BUNKERS
-
-A cool, secure space for living and farming. Protection from heatwaves and wildfires. Connected to distant understructures via the Low Way. All rooms below Entrance are softly lit by purpose-bred bioluminescent fungi.
-
-1. **ENTRANCE** via trapdoor. Locked
-2. **PIPE** smells of moss, slight wind. Anchor points on floor and ceiling. East: 50ft drop to an unlocked grate. West: Unknown depth, doors at 50 and 60 feet.
-3. **LOW WAY** a thoroughfare between understructures. See encounter table. Slow moving water, cooling wind, distant howl.
-4. **GROW ROOM** suspended plants and seedlings. Thick nutrient fog obscures floor. Stash box embedded in western wall.
-5. **Ximus**, optae venduci iscius. Bodi dollataectat quunt doluptur ad iscius optae.
-6. **Rera denti** ut et fugia antio. Idus dolupta non conse reptas mi, officia con nonsecea pratem quaeped iscitiorem ut que enis as nullupi enditatiunt.
-7. **Hit odi** dollataectat quunt doluptur ad earior aut voluptur solupta tiatem verrovides ex esentia ndanis ab illaboribusa exerum ratur audaeca tiamend ebitis denis essimus acerum rerae voluptas maximuscia cus moluptatur sint.
-
-## MAP
+## THE SURFACE
 
 The map shows a cluster of massive pipes emerging from the earth. Shelters and platforms of varying sizes and functions have been built around and on top of the pipes. The settlement is surrounded by lush vegetation and a field of poppies.
 
 Features are numbered starting in the west, travelling clockwise around the circle.
 
-### 1. HUT
+### 1. CAPSTONE
+* Solid concrete. Unlocked.
+* Can be lifted by three people.
+* Allows direct access to the bunker kitchen.
 
-A small A-frame structure, large enough to accommodate two humans.
+## 2. SHED, TOP FLOOR
+* Del’s haunt. Bed roll, dehydrated fruit, pipeweed. Messy.
+* Slingshot, rocks.
+* Climbing rope, harness.
 
-* Bedding for two, wood stove‬.
-* Packed dirt floor.
-* Smells of earth and ash.
-* A stone shard on a chain.
+## 3. SHED, LOWER FLOOR
+* Tools, gloves, crossbow, handheld radio, fishing net.
+* Hatch to bunkers concealed under woven mat. Locked.
 
-### 2. HALL
+## 4. SKYWAY
+* Precarious, impractical, swings.
+* Guss and Del walk the skyway easily. Nobody else does.
 
-A large single-roomed building with a gable roof.
+## 5. PILLBOX
+* Concrete. No visible entrance.
+* A single arrowslit on each wall.
+* Concealed vents on roof.
 
-* Benches, long tables.
-* Kitchen, small stage.
-* Mortar and pestle, sieve.
-* Dried fruits and meats in sacks.
-* Clay idol. If smashed, precious gems spill out.
+## 6. BLOCK AND TACKLE
+* Allows lifting of heavy objects.
 
-### ‪3. ZOME‬
+## 7. BUGGY
+* Electric, lacking batteries.
+* Seating for 3, plus cargo.
+* Radio. Map drawn on floor.
 
-A dome-like structure made up of irregular triangular panels. It has a patchwork appearance. Large enough to accommodate one dozen humans.
+## 8. UPPER LAB
+* In cooler months, home for Guss.
+* Seedlings, mosses, fungi in assorted growing mediums.
+* Insect hatchery. Snail farm.
+* Bed roll, kettle, hotplate.
+* Small desk with radio, writing implements, cyberdeck.
+* Three keys on a loop of string hanging on a nail. One opens the bunker hatch. One starts the buggy. One is a lock-blocker.
 
-* Windows of coloured glass‬.
-* 12 bed rolls, rugs, pillows.
-* Smells of cloves, sweat, candles.
-* Orb. May be pondered. Cannot be shattered. Unknown material.
+## 1d6 SURFACE ENCOUNTERS
 
-### 4. STATION
+1. TV-EYE, hovering surveillance drone. Will pursue you if left unchallenged.
+Persistent.  
+2. CAMEL, roaming in herds. If followed may reveal other settlements, oases.
+3. GUSS, farmer. Wry, lean, dark-eyed. Poppy tea drinker. Wants to be left alone.
+4. FORAGERS wander the landscape seeking protein,
+information, water. Generous.
+5. KABE, farmer. Strong, restless, welcoming. Loves but wants to leave the farm.  
+6. DEL, 14. Kabe's sibling. Hates the farm. Rock-thrower, thief.
 
-A low, flat-roofed hut with two poles projecting from the roof. A rug is outside the door.
+## THE BUNKERS
 
-* Lightning rod.
-* Steel signal mirror on roof, operated via pulleys inside.
-* Dish filled with black sand. Shapes drawn in the sand with a finger appear in another dish in a distant location.
+A cool, secure space for living and farming. Protection from heat waves and wildfires. Softly lit by bioluminescent fungi and fluorescent corals.
 
-### ‪5. KEEPER’S HOME‬
+1. ENTRANCE via locked hatch.
+2. PIPE smells of salt, seaweed. A breeze.
+Anchor points on floor and ceiling. East: 50ft drop to an unlocked grate. West: Unknown depth, doors at 50 and 60 feet.
+3. LOW ROAD, a thoroughfare between understructures. Coral, mollusc, barnacle encrusted. Fills with sea water at high tide. Low tide: 0000, 1200hrs. High: 0600, 1800hrs. Floods east, ebbs west.
+4. CLOUD ROOM full of suspended plants, fungi, purple light. Air is thick with
+nutrient fog. Concealed storage embedded in western wall. Smells of fresh rain.
+Frogs.
+5. KITCHEN equipped for cooking and preserving. Dehydrator. Freshwater well. Capstone at ceiling may be opened from above to allow surface access.
+6. BREAK ROOM with table, chairs, dirty boots. Upper platform grants access to pillbox arrowslits. Bathroom, bedrooms to the north. Entry to pantry hidden behind map on wall.
+7. PANTRY, densely packed with provisions. Dehydrated, canned, and fermented fruits, vegetables, seaweeds. Dried insects. Medicinal and psychotropic herbs, fungi. Water. Weapons. Batteries. Soft eggs of unknown origin, 1ft long, stored in liquid.
 
-The home is raised on stilts and has an L-shaped platform projecting from the front. There is a side door with a ramp.
-
-* Sparsely furnished‬.
-* Smells of smoke and honey.
-* Clay pots of honey, mead, wax.
-* Spare beekeeper suit.
-
-### 6. WORKSHOP
-
-The workshop has a sheltered doorway, a roof-mounted windmill, and a lean-to on one side for storage.
-
-* Tools: mallet, machete, drill.
-* Bee smoker fuel: dried leaves, pine needles.
-
-### ‪7. BEE SHED‬
-
-A ramshackle structure with holes in the walls, allowing bees access to the hives inside.
-
-* Five bee hives‬ housing 1-5k bees, depending on season‬.
-* Hives contain honey, wax.
-* Scattered charms.
-
-### 8. FRUIT TREES
-
-* Leaves are heavy, fibrous.
-* Fruit is large, tropical, multi-coloured. Smells of sherbet, tastes of lemon and rose.
-* Seeds are fast growing, waxy, mildly toxic if eaten, deadly when concentrated.
-
-### 9. THE STONES
-
-* Warm, humming, they steam when it rains.
-* Glow softly at night, colours change with the moon phase.
-* Audio frequencies shift as you walk between the stones.
-* See STONE EFFECTS table.
+## LOW ROAD ENCOUNTERS 1d6
+1. UNDERCOWS travel in herds, feed on sea beans, slime. Milk is drinkable but salty. Hairless.
+2. COLLECTORS carrying tools, climbing equipment. Seeking tech to salvage. Silent.
+3. WHITE CROCODILE is sparkling, intelligent, hungry.
+4. BEACHED DOLPHIN will not survive until high tide without assistance. Telepathic.
+5. CONVOY rushes to beat the tide. Families on buggies, utes, motorbikes. Desperate.
+6. GRAND CAECILIAN seeks her eggs. Follows their scent. Enormous, livid. Oozes toxins.
