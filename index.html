@@ -310,9 +310,7 @@ footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
 <!-- please replace the `latest` with specific version -->
 <script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@2.1.6/lib/bundle.min.js"></script>
 <script>
-    // patch all methods
-    seamless.polyfill();
-
+    seamless.windowScrollBy(window, { behavior: "smooth", top: 0, left: 0 });
 </script>
 </div>
 </div>
