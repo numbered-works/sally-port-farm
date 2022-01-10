@@ -55,29 +55,9 @@ img.spot { max-width: 50%; }
 figure { margin:0; padding: 0; max-width: 100%; }
 figcaption { color:#999; }
 */
-.key {
-position: relative;
-width: 100%;
-margin: 0 auto;
-}
-.key img {
-max-width: 100%;
-height: auto;
-display: block;
-}
-.key a {
-position: absolute;
-height: 6%;
-width: 4%;
-background-color: rgba(0, 0, 0, 0);
-border-radius: 50%;
-border-bottom:0;
-display: flex;
-justify-content: center;
-align-items: center;
-color: #fff;
-text-decoration: none;
-}
+.key { position: relative; width: 100%; margin: 0 auto; }
+.key img { max-width: 100%; height: auto; display: block; }
+.key a { position: absolute; height: 6%; width: 4%; background-color: rgba(0, 0, 0, 0); border-radius: 50%; border-bottom:0; display: flex; justify-content: center; align-items: center; color: #fff; text-decoration: none; }
 .key a:hover { border-bottom:0; background: transparent; }
 
 .capstone { left: 1.2%; top: 58.03%; }
@@ -89,7 +69,7 @@ text-decoration: none;
 .buggy { left: 72.25%; top: 73.91%; }
 .upperlab { left: 73.23%; top: 3.34%; }
 
-.entrance {left: 57.07%; top: 22.93%; }
+.entrance { left: 57.07%; top: 22.93%; }
 .pipe { left: 63.68%; top: 31.85%; }
 .lowroad { left: 67.13%; top: 78.28%; }
 .cloudroom { left: 17.01%; top: 64.75%; }
@@ -307,11 +287,6 @@ footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
 <p>Created during the <a href="https://itch.io/jam/pocket-places-of-the-future/">Pocket Places of the Future jam</a>, December 2021. <a href="https://numbered-works.itch.io/sally-port-farm">You can find the PDF version on Itch.io</a>.</p>
 </footer>
 
-<!-- please replace the `latest` with specific version -->
-<script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@2.1.6/lib/bundle.min.js"></script>
-<script>
-    seamless.windowScrollBy(window, { behavior: "smooth", top: 0, left: 0 });
-</script>
 </div>
 </div>
 </body>
