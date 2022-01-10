@@ -307,6 +307,21 @@ footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
 <p>Created during the <a href="https://itch.io/jam/pocket-places-of-the-future/">Pocket Places of the Future jam</a>, December 2021. <a href="https://numbered-works.itch.io/sally-port-farm">You can find the PDF version on Itch.io</a>.</p>
 </footer>
 
+<script>
+<!-- please replace the `latest` with specific version -->
+<script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@2.1.6/lib/bundle.min.js"></script>
+<script>
+    // patch all methods
+    seamless.polyfill();
+    // or use specific methods
+    seamless.windowScrollBy(window, { behavior: "smooth", top: 200, left: 0 });
+
+    seamless.elementScrollIntoView(document.querySelector("#target"), {
+        behavior: "smooth",
+        block: "center",
+        inline: "center",
+    });
+</script>
 </div>
 </div>
 </body>
