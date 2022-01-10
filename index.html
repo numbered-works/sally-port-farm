@@ -49,11 +49,53 @@ strong { font-weight: bold; }
 .content a { border-bottom: 2px solid black; text-decoration: none; color: black; }
 .content a:hover { border-bottom: 2px solid #af8dc0; background:#af8dc0; }
 
-img { max-width: 100%; }
+img, svg { max-width: 100%; }
 img.spot { max-width: 50%; }
-
-figure { margin:0; padding: 0; width: 100%; }
+/*
+figure { margin:0; padding: 0; max-width: 100%; }
 figcaption { color:#999; }
+*/
+.key {
+position: relative;
+width: 100%;
+margin: 0 auto;
+}
+.key img {
+max-width: 100%;
+height: auto;
+display: block;
+}
+.key a {
+position: absolute;
+height: 6%;
+width: 4%;
+background-color: rgba(0, 0, 0, 0);
+border-radius: 50%;
+border-bottom:0;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #fff;
+text-decoration: none;
+}
+.key a:hover { border-bottom:0; background: transparent; }
+
+.capstone { left: 1.2%; top: 58.03%; }
+.shedtop { left: 45.77%; top: 14.86%; }
+.shedlower { left: 47.54%; top: 32.13%; }
+.skyway { left: 59.44%; top: 40.2%; }
+.pillbox { left: 39.3%; top: 63.42%; }
+.block { left: 66.42%; top: 63.14%; }
+.buggy { left: 72.25%; top: 73.91%; }
+.upperlab { left: 73.23%; top: 3.34%; }
+
+.entrance {left: 57.07%; top: 22.93%; }
+.pipe { left: 63.68%; top: 31.85%; }
+.lowroad { left: 67.13%; top: 78.28%; }
+.cloudroom { left: 17.01%; top: 64.75%; }
+.kitchen { left: 34.6%; top: 65.96%; }
+.breakroom { left: 60.57%; top: 61.59%; }
+.pantry { left: 84.83%; top: 64.99%; }
 
 ol { padding-left: 0; }
 ol li { border-bottom: 2px solid black; padding: 7px 0; list-style-position: inside; }
@@ -115,7 +157,17 @@ footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
 <p>A small, system-agnostic setting to drop into your sci-fi RPG. Includes maps, random encounters, a buggy, and fungi.</p>
 <h2 id="the-surface">THE SURFACE</h2>
 
+<div class="key">
+  <a href="#1-capstone" class="capstone"></a>
+  <a href="#2-shed-top-floor" class="shedtop"></a>
+  <a href="#3-shed-lower-floor" class="shedlower"></a>
+  <a href="#4-skyway" class="skyway"></a>
+  <a href="#5-pillbox" class="pillbox"></a>
+  <a href="#6-block-and-tackle" class="block"></a>
+  <a href="#7-buggy" class="buggy"></a>
+  <a href="#8-upper-lab" class="upperlab"></a>
 <img src="images/surface.jpg" Alt="A map showing a cluster of massive pipes emerging from the earth. Shelters, platforms, and planters of varying sizes have been built around and on top of the pipes. The settlement is surrounded by a field of poppies. Features are numbered starting in the west, travelling clockwise around the circle.">
+</div>
 
 <h3 id="1-capstone">1. CAPSTONE</h3>
 <ul>
@@ -179,7 +231,16 @@ footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
 
 <h2 id="the-bunkers">THE BUNKERS</h2>
 
+<div class="key">
+  <a href="#1-entrance" class="entrance"></a>
+  <a href="#2-pipe" class="pipe"></a>
+  <a href="#3-low-road" class="lowroad"></a>
+  <a href="#4-cloud-room" class="cloudroom"></a>
+  <a href="#5-kitchen" class="kitchen"></a>
+  <a href="#6-break-room" class="breakroom"></a>
+  <a href="#7-pantry" class="pantry"></a>
 <img src="images/bunkers.jpg" Alt="A cross-section map of the underground bunkers, showing seven separate spaces connected by tunnels.">
+</div>
 
 <p>A cool, secure space for living and farming. Protection from heat waves and wildfires. Softly lit by bioluminescent fungi and fluorescent corals.</p>
 
